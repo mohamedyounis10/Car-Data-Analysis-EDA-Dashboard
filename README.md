@@ -175,7 +175,7 @@ pip install -r requirements.txt
 
 ### Interactive Power BI Dashboard
 
-<img width="1750" height="713" alt="Screenshot 2025-12-06 092753" src="https://github.com/user-attachments/assets/212b8fbb-7050-496d-b22d-aaa33d400421" />
+<img width="1736" height="713" alt="Screenshot 2025-12-06 092753" src="https://github.com/user-attachments/assets/85c71f4a-df58-4a40-b26c-b417f90a8d85" />
 <img width="1727" height="705" alt="Screenshot 2025-12-06 092830" src="https://github.com/user-attachments/assets/5e94614a-f3cd-4e8c-95a5-7dd5c16c4250" />
 
 The Power BI dashboard provides:
@@ -284,3 +284,4 @@ For questions or suggestions, please open an issue or contact the authors.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
+
