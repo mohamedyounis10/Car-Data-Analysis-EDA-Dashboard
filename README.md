@@ -148,10 +148,8 @@ pip install -r requirements.txt
 
 ### Code & Analysis
 
-<!-- Add screenshot of code/notebook here -->
-![Code Screenshot 1](screenshots/code_screenshot_1.png)
-
-![Code Screenshot 2](screenshots/code_screenshot_2.png)
+<img width="1577" height="828" alt="Screenshot 2025-12-06 092529" src="https://github.com/user-attachments/assets/a2f3af37-6cf1-47be-ab51-b5ab176f07cc" />
+<img width="1780" height="837" alt="Screenshot 2025-12-06 092514" src="https://github.com/user-attachments/assets/1043b801-fe35-4eb3-9b11-c80b284bfded" />
 
 ### Key Analysis Steps
 
@@ -289,5 +287,6 @@ For questions or suggestions, please open an issue or contact the authors.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
+
 
 
