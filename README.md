@@ -175,10 +175,9 @@ pip install -r requirements.txt
 
 ### Interactive Power BI Dashboard
 
-<!-- Add screenshot of Power BI dashboard here -->
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
-![Dashboard Analysis](screenshots/dashboard_analysis.png)
+<img width="1727" height="705" alt="Screenshot 2025-12-06 092830" src="https://github.com/user-attachments/assets/5e94614a-f3cd-4e8c-95a5-7dd5c16c4250" />
+<img width="1733" height="713" alt="Screenshot 2025-12-06 092808" src="https://github.com/user-attachments/assets/308a47d3-db4e-4495-a9b6-3e53c610c31b" />
+<img width="1750" height="713" alt="Screenshot 2025-12-06 092753" src="https://github.com/user-attachments/assets/212b8fbb-7050-496d-b22d-aaa33d400421" />
 
 The Power BI dashboard provides:
 - Interactive filters for all features
@@ -287,6 +286,7 @@ For questions or suggestions, please open an issue or contact the authors.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
+
 
 
 
