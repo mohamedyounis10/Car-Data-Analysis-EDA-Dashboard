@@ -1,10 +1,12 @@
-# 🚗 Car Data Analysis & Price Dashboard
+## 🚗 Car Data Analysis & Price Dashboard
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-orange.svg)](https://pandas.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow.svg)](https://powerbi.microsoft.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg">
+  <img src="https://img.shields.io/badge/Pandas-2.0+-orange.svg">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg">
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow.svg">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+</p>
 
 An intelligent data analysis dashboard for automated exploratory data analysis (EDA) on used car resale data to identify key factors influencing car selling prices.
 
@@ -287,4 +289,5 @@ For questions or suggestions, please open an issue or contact the authors.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
+
 
