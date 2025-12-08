@@ -260,7 +260,7 @@ These insights can be applied to:
 <!-- Add author names here -->
 - **Shahd Alhindawy** - [GitHub Profile](https://github.com/shahdelhendawy)
 - **Mohamed Younis** - [GitHub Profile](https://github.com/mohamedyounis10)
-- **Mariam Fouad** - [GitHub Profile](https://github.com/author3)
+- **Mariam Fouad** - [GitHub Profile](https://github.com/mariamfo2ad)
 
 ---
 
@@ -284,5 +284,6 @@ For questions or suggestions, please open an issue or contact the authors.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
+
 
 
