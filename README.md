@@ -89,7 +89,9 @@ Final Project/
 │   ├── image.png                 # Dashboard screenshot 1
 │   └── image2.png                # Dashboard screenshot 2
 │
-├── TMP_project_phase1_DS.ipynb   # Main Jupyter notebook with complete analysis
+├── TMP_project_phase1_DS.ipynb  # Main Jupyter notebook with complete analysis
+│
+├── Used Car Market Analysis Presentation
 │
 └── README.md                      # This file
 ```
@@ -284,6 +286,7 @@ For questions or suggestions, please open an issue or contact the authors.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
+
 
 
 
